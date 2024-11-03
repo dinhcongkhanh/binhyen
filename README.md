@@ -14,8 +14,8 @@
 <body>
      <div class="center">
          <h1>Bài hát Bình Yên-
-         <a href="https://vi.wikipedia.org/wiki/V%C5%A9_(ca_s%C4%A9)"target="_blank">Vũ</a>.ft.
-         <a href="https://vi.wikipedia.org/wiki/Binz_(rapper)"target="_blank">BinZ</a>
+         <a href= "https://vi.wikipedia.org/wiki/V%C5%A9_(ca_s%C4%A9)"target="_blank">Vũ</a>.ft.
+         <a href= "https://vi.wikipedia.org/wiki/Binz_(rapper)"target="_blank">BinZ</a>
           </h1>
          <video src="_Vũ. ft. Binz (từ Album _Bảo Tàng Của Nuối Tiếc_).mp4" controls></video>
      </div>
